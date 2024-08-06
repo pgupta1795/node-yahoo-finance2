@@ -155,7 +155,11 @@ export type PredefinedScreenerModules =
   | "solid_midcap_growth_funds"
   | "top_mutual_funds"
   | "undervalued_growth_stocks"
-  | "undervalued_large_caps";
+  | "undervalued_large_caps"
+  | "most_actives_in"
+  | "day_gainers_in"
+  | "day_losers_in"
+  | "top_mutual_funds_in";
 
 const queryOptionsDefaults = {
   lang: "en-US",
