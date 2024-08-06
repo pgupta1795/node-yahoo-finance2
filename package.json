@@ -11,7 +11,7 @@
   },
   "types": "./dist/esm/src/index-node.d.ts",
   "browser": "./dist/esm/src/index-browser.js",
-  "repository": "https://github.com/gadicc/node-yahoo-finance2",
+  "repository": "https://github.com/pgupta1795/node-yahoo-finance2",
   "author": "Gadi Cohen <dragon@wastelands.net>",
   "license": "MIT",
   "keywords": [
